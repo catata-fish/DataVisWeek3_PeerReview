@@ -2,7 +2,7 @@
 Modified Leaflet and Highcharts Templates for Peer Review
 
  
-<iframe src="https://catata-fish.github.io/leaflet-map-simple/" style="border:0px #FFFFFF none;" name="myiFrame" scrolling="no" frameborder="1" marginheight="0px" marginwidth="0px" height="100%" width="100%"></iframe>
+<iframe src="https://catata-fish.github.io/leaflet-map-simple/" style="border:0px #FFFFFF none;" scrolling="no" frameborder="1" marginheight="0px" marginwidth="0px" height="360px" width="90%"></iframe>
  
  
-<iframe src="https://catata-fish.github.io/highcharts-scatter-csv/" style="border:0px #FFFFFF none;" scrolling="no" frameborder="1" marginheight="0px" marginwidth="0px" height="350px" width="90%"></iframe>
+<iframe src="https://catata-fish.github.io/highcharts-scatter-csv/" style="border:0px #FFFFFF none;" scrolling="no" frameborder="1" marginheight="0px" marginwidth="0px" height="360px" width="90%"></iframe>
